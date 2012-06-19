@@ -1,0 +1,22 @@
+C:\Users\Thais\Desktop\Heuristicas\CaixeiroViajante\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patricia\Desktop\Heuristicas\CaixeiroViajante\bin\Debug\CaixeiroViajante.dll
+C:\Users\Patricia\Desktop\Heuristicas\CaixeiroViajante\bin\Debug\CaixeiroViajante.pdb
+C:\Users\Patricia\Desktop\Heuristicas\CaixeiroViajante\bin\Debug\HeuristicaConstrutiva.dll
+C:\Users\Patricia\Desktop\Heuristicas\CaixeiroViajante\bin\Debug\HeuristicaConstrutiva.pdb
+C:\Users\Patricia\Desktop\Heuristicas\CaixeiroViajante\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Patricia\Desktop\Heuristicas\CaixeiroViajante\obj\Debug\CaixeiroViajante.dll
+C:\Users\Patricia\Desktop\Heuristicas\CaixeiroViajante\obj\Debug\CaixeiroViajante.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\Heuristicas\CaixeiroViajante\bin\Debug\CaixeiroViajante.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\Heuristicas\CaixeiroViajante\bin\Debug\CaixeiroViajante.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\Heuristicas\CaixeiroViajante\bin\Debug\HeuristicaConstrutiva.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\Heuristicas\CaixeiroViajante\bin\Debug\HeuristicaConstrutiva.pdb
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\Heuristicas\CaixeiroViajante\obj\Debug\ResolveAssemblyReference.cache
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\Heuristicas\CaixeiroViajante\obj\Debug\CaixeiroViajante.dll
+D:\Documentos\Faculdade\7º Período\Plataforma .NET - Petrônio\Projetos\Heuristicas\CaixeiroViajante\obj\Debug\CaixeiroViajante.pdb
+C:\Users\Johnatan\Downloads\ProblemaCaixeiroViajante\patriciajosianne-TrabalhoHeuristicas-Patricia-Thais-Guilherme-95269d2\CaixeiroViajante\bin\Debug\CaixeiroViajante.dll
+C:\Users\Johnatan\Downloads\ProblemaCaixeiroViajante\patriciajosianne-TrabalhoHeuristicas-Patricia-Thais-Guilherme-95269d2\CaixeiroViajante\bin\Debug\CaixeiroViajante.pdb
+C:\Users\Johnatan\Downloads\ProblemaCaixeiroViajante\patriciajosianne-TrabalhoHeuristicas-Patricia-Thais-Guilherme-95269d2\CaixeiroViajante\bin\Debug\HeuristicaConstrutiva.dll
+C:\Users\Johnatan\Downloads\ProblemaCaixeiroViajante\patriciajosianne-TrabalhoHeuristicas-Patricia-Thais-Guilherme-95269d2\CaixeiroViajante\bin\Debug\HeuristicaConstrutiva.pdb
+C:\Users\Johnatan\Downloads\ProblemaCaixeiroViajante\patriciajosianne-TrabalhoHeuristicas-Patricia-Thais-Guilherme-95269d2\CaixeiroViajante\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Johnatan\Downloads\ProblemaCaixeiroViajante\patriciajosianne-TrabalhoHeuristicas-Patricia-Thais-Guilherme-95269d2\CaixeiroViajante\obj\Debug\CaixeiroViajante.dll
+C:\Users\Johnatan\Downloads\ProblemaCaixeiroViajante\patriciajosianne-TrabalhoHeuristicas-Patricia-Thais-Guilherme-95269d2\CaixeiroViajante\obj\Debug\CaixeiroViajante.pdb
